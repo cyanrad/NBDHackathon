@@ -1,0 +1,26 @@
+{
+ "123": {
+  "ID": 1000010106,
+  "EM_ID": "123",
+  "Password": "123",
+  "VDirhams": 55
+ },
+ "456": {
+  "ID": 1000010107,
+  "EM_ID": "456",
+  "Password": "456",
+  "VDirhams": 0
+ },
+ "498494": {
+  "ID": 1000010105,
+  "EM_ID": "498494",
+  "Password": "asdfasdf",
+  "VDirhams": 170
+ },
+ "789": {
+  "ID": -1,
+  "EM_ID": "789",
+  "Password": "789",
+  "VDirhams": 0
+ }
+}
